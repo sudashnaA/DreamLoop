@@ -1,0 +1,9 @@
+.vs
+tokenizer.bin
+model.bin
+StoryGen.sln
+StoryGen.vcxproj
+StoryGen.vcxproj.filters
+StoryGen.vcxproj.user
+x64
+StoryGen
